@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4cd3f9fb.css",
+    "main.js": "/portfolio/static/js/main.1119cc52.js",
+    "static/media/myself.jpg": "/portfolio/static/media/myself.b9748b51ec5e61b75404.jpg",
+    "static/media/weather.png": "/portfolio/static/media/weather.82d9fa841f3c163c79b9.png",
+    "static/media/boy.png": "/portfolio/static/media/boy.ee1720b0907d57d1a522.png",
+    "static/media/fmsasp.png": "/portfolio/static/media/fmsasp.6e184f9c7eae1af7a661.png",
+    "static/media/Resume-Fahim-Ahmed-Emon.pdf": "/portfolio/static/media/Resume-Fahim-Ahmed-Emon.dda2375ac90cb4d61a5b.pdf",
+    "static/media/fmslar.png": "/portfolio/static/media/fmslar.b9cffb6b3a84b35f5073.png",
+    "static/media/text.png": "/portfolio/static/media/text.6ee44b361d89878aaef6.png",
+    "static/media/rps.png": "/portfolio/static/media/rps.c6e860e2e006b1cf70ab.png",
+    "static/media/tip.png": "/portfolio/static/media/tip.ec03fb1164193fb9d911.png",
+    "index.html": "/portfolio/index.html",
+    "main.4cd3f9fb.css.map": "/portfolio/static/css/main.4cd3f9fb.css.map",
+    "main.1119cc52.js.map": "/portfolio/static/js/main.1119cc52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd3f9fb.css",
+    "static/js/main.1119cc52.js"
+  ]
+}
