@@ -27,7 +27,7 @@ function Contact() {
         <div className="contact__options">
           <article className='contact__option'>
             <MdEmail className='contact__option-icon'/>
-            <h4>Email</h4>
+            <h4>Email </h4>
             <h5>ahmed.fahim37@gmail.com</h5>
             <a href='mailto:ahmed.fahim37@gmail.com' target='_blank'>Send a message</a>
           </article>
