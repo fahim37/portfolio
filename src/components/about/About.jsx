@@ -15,7 +15,7 @@ function About() {
         </div>
         <div className="about__content">
           <p>
-          My future plan is to become a full-stack developer. I want to improve my technical ability and gain experience working on large-scale projects. I have the ability to learn quickly and I am interested in learning new technologies. I am currently pursuing my final semester in Computer Science and Engineering at American International University - Bangladesh. 
+          My future plan is to become a software engineer. I want to improve my technical ability and gain experience working on large-scale projects. I have the ability to learn quickly and I am interested in learning new technologies. I am currently pursuing my final semester in Computer Science and Engineering at American International University - Bangladesh. 
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
