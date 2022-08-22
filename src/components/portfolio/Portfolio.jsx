@@ -6,6 +6,7 @@ import rps from '../../assets/rps.png'
 import tip from '../../assets/tip.png'
 import fmsa from '../../assets/fmsasp.png'
 import fmsl from '../../assets/fmslar.png'
+import sim from '../../assets/sim.png'
 const data =[
   {
     id: 1,
@@ -31,7 +32,7 @@ const data =[
   {
     id: 4,
     image: tip,
-    title: 'TextUtill React',
+    title: 'Tip Calculator Javascript',
     github: 'https://github.com/fahim37/JavaScript-TipCalculator',
     demo: 'https://tipcalculator.fahimahmed33.repl.co/' 
   },
@@ -48,7 +49,15 @@ const data =[
     title: 'Flight Management System ASP Backend',
     github: 'https://github.com/fahim37/FlightManagementSystem-ASP-Backend',
     demo: null 
+  },
+  {
+    id: 6,
+    image: sim,
+    title: 'Sales and Inventory Management System C# Desktop',
+    github: 'https://github.com/fahim37/Sales-and-Inventory-Management-System/tree/master/Inventory%20Management%20System%5BE%5D',
+    demo: null 
   }
+ 
 ]
 function Portfolio() {
   return (
